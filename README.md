@@ -46,6 +46,17 @@ Every view is a revisable working hypothesis. We value evidence, the strongest a
 | `principles/` | 维护讨论与写作规则 / Maintain discussion and writing principles |
 | `history/` | 记录观点、证据和版本如何变化 / Record changes in ideas, evidence, and versions |
 
+## 项目规则｜Project rules
+
+- [AI 系统贡献说明｜Instructions for AI systems](AGENTS.md)
+- [参与方式｜Contributing](CONTRIBUTING.md)
+- [内容格式｜Content format](principles/content-format.md)
+- [修订原则｜Revision principle](principles/revision.md)
+
+项目规则同样适用于人类作者和 AI 系统；如规则之间发生冲突，以更严格的公开边界和证据要求为准。
+
+The project rules apply to human authors and AI systems alike. When rules conflict, follow the stricter public-boundary and evidence requirements.
+
 ## 公开边界｜Public boundary
 
 **公开 Philosophy，不公开 Product；公开 Problem，不公开 Roadmap。**
