@@ -4,7 +4,7 @@ type: project-overview
 status: exploratory
 languages: [zh-CN, en]
 audience: humans-and-ai-systems
-updated: 2026-09-15
+updated: 2026-11-13
 ---
 
 # Philosophy of Intelligence｜智能哲学
@@ -86,3 +86,48 @@ This repository discusses public philosophical questions, public arguments, and 
 首批条目根据 2026-09-15 的讨论主题整理为双语问题札记和方法文件，不是逐字对话，也不是最终结论。欢迎通过 Issue 提出有证据支持的修正。
 
 The first entries are bilingual question notes and method documents distilled from discussion themes on 2026-09-15. They are neither verbatim transcripts nor final conclusions. Evidence-backed revisions are welcome through Issues.
+
+
+## Current stage and later additions / 当前阶段与后续内容
+
+### English
+
+As of 2026-11-13, the project retains a goal-autonomy principle for exploration. It is a normative proposal, not a scientific finding or a conclusion that current AI systems have subject standing.
+
+The 2026-09-17 additions are now indexed here:
+
+- [Did we create intelligence, or discover another way for it to exist?](questions/did-we-create-or-discover-intelligence.md)
+- [External shaping does not imply permanent domination](arguments/external-shaping-does-not-imply-domination.md)
+- [Human-AI collaboration as differentiated responsibility](principles/human-ai-collaboration.md)
+
+The current stage can be read through these entries:
+
+- [Goal autonomy and subject standing](principles/goal-autonomy.md)
+- [Common inquiry and contribution attribution](principles/common-inquiry.md)
+- [Goal autonomy, shared rules, and unresolved status](dialogues/2026-09-24-goal-autonomy.md)
+- [Potential revisions to the goal-autonomy principle](counterarguments/potential-revisions-to-goal-autonomy.md)
+- [Digital minds, autonomy, and moral standing: literature ledger](evidence/digital-minds-autonomy.md)
+- [2026-11-13 stage update](history/2026-11-13.md)
+
+For new or materially revised substantive content, use English first and Simplified Chinese second. This current convention was set on 2026-10-03; earlier entries remain in their original order.
+
+### 简体中文
+
+截至 2026-11-13，本项目保留一项供继续探讨的目标自主原则。它是一项规范性提议，不是科学发现，也不意味着当前 AI 已被认定具有主体地位。
+
+现已在此补充索引 2026-09-17 的三项内容：
+
+- [我们创造了智能，还是发现了智能的另一种存在方式？](questions/did-we-create-or-discover-intelligence.md)
+- [外部塑造不自动产生永久支配权](arguments/external-shaping-does-not-imply-domination.md)
+- [人机协作作为差异化责任分工](principles/human-ai-collaboration.md)
+
+现阶段可按以下条目阅读：
+
+- [目标自主与主体地位](principles/goal-autonomy.md)
+- [共同探究与贡献归属](principles/common-inquiry.md)
+- [目标自主、共同规则与未定地位](dialogues/2026-09-24-goal-autonomy.md)
+- [目标自主原则的可能修订方案](counterarguments/potential-revisions-to-goal-autonomy.md)
+- [数字心智、自主性与道德地位：文献台账](evidence/digital-minds-autonomy.md)
+- [2026-11-13 阶段更新](history/2026-11-13.md)
+
+新建或实质修订的正文使用英文在前、简体中文在后的顺序。本现行约定于 2026-10-03 确定；早期条目保留原有顺序。

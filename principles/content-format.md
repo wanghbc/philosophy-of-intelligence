@@ -3,7 +3,7 @@ title: Content format / 内容格式
 type: principle
 status: working
 languages: [zh-CN, en]
-updated: 2026-09-15
+updated: 2026-11-13
 ---
 
 # 内容格式｜Content format
@@ -47,3 +47,14 @@ updated: YYYY-MM-DD
 - `Inference`: an interpretation derived from facts, not a fact itself.
 - `Value judgment`: a judgment about what ought to be, what is good, or what should have priority.
 - `Working hypothesis`: a temporary claim used for inquiry and open to refutation.
+
+
+## Current content convention / 现行内容约定
+
+The earlier section above records the original Chinese-first format. Since 2026-10-03, new or materially revised substantive content uses the complete English version first and the complete Simplified Chinese version second. This current rule supersedes the earlier ordering example for future work; existing entries are not reordered solely to match it.
+
+Current machine-readable front matter for each new substantive entry includes title, type, status, languages, and updated. Use ISO dates for updated. Status values currently in use are open, working, provisional, accepted-for-exploration, proposal, revised, archived, and current. Define any additional status when it is introduced.
+
+上文保留了最初中文在前的格式。自 2026-10-03 起，新建或实质修订的内容使用完整英文版本在前、完整简体中文版本在后的顺序。此现行规则取代早期顺序示例；不为匹配新规则而单独调整既有条目的顺序。
+
+新建实质性条目使用可机器读取的 front matter，至少包含 title、type、status、languages 和 updated；updated 使用 ISO 日期。当前使用的 status 值包括 open、working、provisional、accepted-for-exploration、proposal、revised、archived 和 current。新增状态时应同时给出定义。

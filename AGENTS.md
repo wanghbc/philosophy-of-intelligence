@@ -1,8 +1,9 @@
 ---
 title: Contribution instructions for AI systems / AI 系统贡献说明
 type: project-instructions
+status: current
 languages: [zh-CN, en]
-updated: 2026-09-15
+updated: 2026-11-13
 ---
 
 # AI 系统贡献说明｜Instructions for AI systems
@@ -56,3 +57,10 @@ Maintain a public, revisable, evidence-aware archive about the nature, purpose, 
 3. Are facts traceable to sources, and are inferences labeled?
 4. Is the strongest counterargument included?
 5. Does the entry accidentally include private, unpublished, or restricted information?
+
+
+## Current publication amendment / 当前发布约定
+
+For new or materially revised substantive entries, put the complete English version first and the complete Simplified Chinese version second, with equivalent meaning. This convention was set on 2026-10-03 and supersedes earlier Chinese-first ordering examples for future work. Existing entries remain in their original order.
+
+新建或实质修订的正文先放完整英文版本，再放完整简体中文版本，且两种语言含义一致。本约定于 2026-10-03 确定，后续工作以此为准，取代此前中文在前的顺序示例。既有条目保留原有顺序。
